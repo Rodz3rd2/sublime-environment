@@ -1,0 +1,55 @@
+<snippet>
+	<content><![CDATA[
+<div class="panel-group" id="$1" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingOne">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#$1" href="#$2" aria-expanded="true" aria-controls="$2">
+                    $5
+                </a>
+            </h4>
+        </div>
+        <div id="$2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life
+            </div>
+        </div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingTwo">
+            <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#$1" href="#$3" aria-expanded="false" aria-controls="$3">
+                    $6
+                </a>
+            </h4>
+        </div>
+        <div id="$3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="panel-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life
+            </div>
+        </div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingThree">
+            <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#$1" href="#$4" aria-expanded="false" aria-controls="$4">
+                    $7
+                </a>
+            </h4>
+        </div>
+        <div id="$4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="panel-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life
+            </div>
+        </div>
+    </div>
+</div>
+]]></content>
+<tabTrigger>bs3-collapse</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
