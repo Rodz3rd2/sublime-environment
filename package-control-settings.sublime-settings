@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autocomplete Javascript with Method Signature",
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"iLorem",
+		"jQuery",
+		"Package Control",
+		"PHP Completions Kit",
+		"PHP-Twig",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Twig"
+	]
+}
