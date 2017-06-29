@@ -20,17 +20,19 @@
 		"iLorem",
 		"jQuery",
 		"Package Control",
+		"PHP Companion",
 		"PHP Completions Kit",
 		"PHP-Twig",
+		"Semantic UI",
 		"Seti_UI",
 		"Seti_UX",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Syntax Highlighting for Sass",
+		"TrailingSpaces",
 		"Twig"
 	]
 }
